@@ -1,4 +1,5 @@
 <?php
+	//数据库信息
 	$db_server = "qdm163951542.my3w.com";//qdm163951542.my3w.com
 	$db_username = "qdm163951542";//qdm163951542
 	$db_password = "Woshizhu3312";//Woshizhu3312
